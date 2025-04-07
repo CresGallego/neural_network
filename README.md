@@ -5,3 +5,11 @@ This model uses the Tensorflow platform and Keras APIs. The model is built as an
 
 The code is in Google Colab Notebook and is linked here in GitHub. You can run and test the code by clicking the Google Colab button ![image](https://github.com/user-attachments/assets/963229eb-1638-438d-a89d-6b4f9ae64af9)
 on the uppermost part of the code. 
+
+
+Predicting the image from test data (randomly selected from 10,000 images). Sample result.
+
+![Image_Prediction_Result](https://github.com/user-attachments/assets/ea37beeb-e4e9-492c-aee8-9c4316f905bd)
+
+
+
