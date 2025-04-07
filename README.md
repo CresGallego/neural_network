@@ -3,4 +3,5 @@ This is a neural network model. Data is from the Keras dataset fashion_mnist. Fa
 
 This model uses the Tensorflow platform and Keras APIs. The model is built as an instance of the Keras Sequence model and Keras Dense layer to connect the input and output layers fully. The output layer returns an array of 10 probabilities of floating numbers from 0 to 1. So, after the training, the model needs to see the 60,000 images. it saves the weights and biases that will be used once we run the prediction method.
 
-The code is in Google Colab Notebook and is linked here in GitHub. You can run and test the code by clicking the Google Colab button on the uppermost part of the code. 
+The code is in Google Colab Notebook and is linked here in GitHub. You can run and test the code by clicking the Google Colab button ![image](https://github.com/user-attachments/assets/963229eb-1638-438d-a89d-6b4f9ae64af9)
+on the uppermost part of the code. 
